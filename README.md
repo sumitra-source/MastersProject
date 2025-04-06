@@ -13,7 +13,7 @@ cd Leaf-Tracking
 ```
 Then install the requirements:
 ```powershell
-pip install -r requirements.txt
+pip install -r requirements_pip.txt
 ```
 
 Open using [Visual Studio Code](https://code.visualstudio.com/) the folder and the open the Example_run.ipynb notebook file. Be mindful that it is a jupyter notebook, so if you have not worked with notebooks you might find the [documentation on jupyter notebook in VSCode](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) usefull.
